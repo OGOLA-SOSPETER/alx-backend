@@ -71,4 +71,4 @@ class Server:
             response['next_index'] = index
         else:
             response['next_index'] = None
-        return 
+        return response
